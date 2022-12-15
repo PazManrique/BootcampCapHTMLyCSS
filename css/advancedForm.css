@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+
+select {
+    color: blue;
+    background-color: beige;
+}
+
+h1{
+color: red;
+background-color: azure;
+}
+
+h3{
+color: chartreuse;
+background-color: coral;
+}
+
+option{
+    color: darkgreen;
+    background-color: crimson;
+
+}
+
+input{
+    color: darksalmon;
+    background-color: khaki;
+
+}
